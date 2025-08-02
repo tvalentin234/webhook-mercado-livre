@@ -9,7 +9,6 @@ certifi==2020.6.20
 chardet==4.0.0
 charset-normalizer==3.4.2
 click==8.2.2
-cloud-init==24.4
 colorama==0.4.4
 command-not-found==0.3
 configobj==5.0.6
