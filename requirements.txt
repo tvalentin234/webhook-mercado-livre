@@ -16,7 +16,6 @@ cryptography==3.4.8
 dbus-python==1.2.18
 distlib==0.4.0
 distro==1.7.0
-distro-info==1.1+ubuntu0.2
 filelock==3.18.0
 Flask==3.1.1
 gitdb==4.0.12
